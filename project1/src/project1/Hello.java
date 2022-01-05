@@ -1,10 +1,10 @@
 package project1;
 
-public class Welcome {
+public class Hello {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello & Welcome back");
+		System.out.println("Welcome");
 
 	}
 
